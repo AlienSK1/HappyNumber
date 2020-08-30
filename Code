@@ -60,6 +60,6 @@ public class HappyNumber
        n = n/10;
      }
      return ret;
-	}
+   }
   
 }
